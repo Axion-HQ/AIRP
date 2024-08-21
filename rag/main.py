@@ -50,7 +50,7 @@ unprocessed_data = json.load(open("../data/20240819_tpd.json"))
 
 # Filter and embed data
 processed_data = []
-select_ai_type = AiTypes.GROQ
+select_ai_type = AiTypes.OPENAI
 
 # TODO: Consider using other open-source vector databases like Milvus or Weaviate
 for data in unprocessed_data["professor_reviews"]:
