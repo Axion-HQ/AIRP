@@ -1,0 +1,1 @@
+npm uninstall @mui/material @emotion/react @emotion/styled
