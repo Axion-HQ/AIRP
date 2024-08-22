@@ -1,0 +1,164 @@
+{
+	"professor_reviews": [
+		{
+			"id": 1,
+			"professor": "Dr. Sarah Johnson",
+			"department": "Computer Science",
+			"rating": 5,
+			"review": "Exceptional teaching methods, very engaging and informative lectures.",
+			"timestamp": "2024-03-15"
+		},
+		{
+			"id": 2,
+			"professor": "Prof. Michael Lee",
+			"department": "Mathematics",
+			"rating": 4,
+			"review": "Challenging but rewarding course. Clear explanations of complex topics.",
+			"timestamp": "2024-03-10"
+		},
+		{
+			"id": 3,
+			"professor": "Dr. Emily Chen",
+			"department": "Biology",
+			"rating": 5,
+			"review": "Passionate about the subject, makes learning fun and interactive.",
+			"timestamp": "2024-03-05"
+		},
+		{
+			"id": 4,
+			"professor": "Dr. David Smith",
+			"department": "Physics",
+			"rating": 3,
+			"review": "Good knowledge but lectures can be a bit dry.",
+			"timestamp": "2024-03-02"
+		},
+		{
+			"id": 5,
+			"professor": "Prof. Maria Gonzales",
+			"department": "Chemistry",
+			"rating": 4,
+			"review": "Clear and concise teaching style, very approachable.",
+			"timestamp": "2024-02-28"
+		},
+		{
+			"id": 6,
+			"professor": "Dr. John Brown",
+			"department": "History",
+			"rating": 5,
+			"review": "Makes history come alive with engaging stories and insights.",
+			"timestamp": "2024-02-25"
+		},
+		{
+			"id": 7,
+			"professor": "Prof. Linda Wilson",
+			"department": "Sociology",
+			"rating": 4,
+			"review": "Thought-provoking lectures, encourages deep discussions.",
+			"timestamp": "2024-02-20"
+		},
+		{
+			"id": 8,
+			"professor": "Dr. Robert Martinez",
+			"department": "Political Science",
+			"rating": 3,
+			"review": "Content-heavy course but manageable with effort.",
+			"timestamp": "2024-02-15"
+		},
+		{
+			"id": 9,
+			"professor": "Prof. Angela Davis",
+			"department": "Philosophy",
+			"rating": 5,
+			"review": "Inspires critical thinking, excellent at breaking down complex ideas.",
+			"timestamp": "2024-02-12"
+		},
+		{
+			"id": 10,
+			"professor": "Dr. Mark Evans",
+			"department": "Economics",
+			"rating": 4,
+			"review": "Well-structured lectures, practical examples are helpful.",
+			"timestamp": "2024-02-10"
+		},
+		{
+			"id": 11,
+			"professor": "Prof. Jennifer Turner",
+			"department": "Psychology",
+			"rating": 5,
+			"review": "Engaging and interactive classes, very supportive.",
+			"timestamp": "2024-02-08"
+		},
+		{
+			"id": 12,
+			"professor": "Dr. Kevin Harris",
+			"department": "Engineering",
+			"rating": 3,
+			"review": "Technical content is good but lectures can be overwhelming.",
+			"timestamp": "2024-02-05"
+		},
+		{
+			"id": 13,
+			"professor": "Prof. Elizabeth Moore",
+			"department": "English Literature",
+			"rating": 5,
+			"review": "Passionate about literature, creates a lively classroom atmosphere.",
+			"timestamp": "2024-02-03"
+		},
+		{
+			"id": 14,
+			"professor": "Dr. Richard Taylor",
+			"department": "Philosophy",
+			"rating": 4,
+			"review": "Great at fostering discussions, but readings are dense.",
+			"timestamp": "2024-02-01"
+		},
+		{
+			"id": 15,
+			"professor": "Prof. Nancy Clark",
+			"department": "Art History",
+			"rating": 5,
+			"review": "Makes art history fascinating, very knowledgeable.",
+			"timestamp": "2024-01-30"
+		},
+		{
+			"id": 16,
+			"professor": "Dr. Steven Allen",
+			"department": "Anthropology",
+			"rating": 4,
+			"review": "Interesting lectures, but assignments are tough.",
+			"timestamp": "2024-01-28"
+		},
+		{
+			"id": 17,
+			"professor": "Prof. Karen Hill",
+			"department": "Linguistics",
+			"rating": 5,
+			"review": "Excellent communicator, makes complex concepts easy to understand.",
+			"timestamp": "2024-01-25"
+		},
+		{
+			"id": 18,
+			"professor": "Dr. Christopher Young",
+			"department": "Physics",
+			"rating": 3,
+			"review": "Challenging course, requires a strong background in mathematics.",
+			"timestamp": "2024-01-20"
+		},
+		{
+			"id": 19,
+			"professor": "Prof. Patricia Lewis",
+			"department": "Computer Science",
+			"rating": 4,
+			"review": "Very knowledgeable, but the pace of the course is fast.",
+			"timestamp": "2024-01-18"
+		},
+		{
+			"id": 20,
+			"professor": "Dr. William Carter",
+			"department": "Chemistry",
+			"rating": 5,
+			"review": "Great lab sessions, very hands-on and practical.",
+			"timestamp": "2024-01-15"
+		}
+	]
+}
